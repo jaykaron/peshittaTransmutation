@@ -15,3 +15,6 @@ The [Comprehensive Aramaic Lexicon Project](http://cal.huc.edu/) (CAL) of [Hebre
 - `converted/` or `converted.zip` - The files transmuted to Hebrew script
 - `downloader.py` - Downloads books from CAL's website
 - `converter.py` - Converts the files from Syriac script to Hebrew
+
+## Note
+Files were downloaded and published with permission from CAL. Files were retrieved June 12, 2019.
